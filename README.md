@@ -7,3 +7,4 @@ the logic behind the code.
 > 1) Implementation of Queue using array
 > 2) Implementation of Queue using Linked List
 > 3) Implementation of Deque(Doubly ended queue) in Java
+> 4) Sliding window maximum (LeetCode 239 : https://leetcode.com/problems/sliding-window-maximum/) (Hard)
